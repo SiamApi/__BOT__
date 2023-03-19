@@ -1,7 +1,7 @@
 {
 	"name": "SIAMBOT",
 	"version": "1.0.1",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+	"description": "A Simple Messenger Bot Made By Siam Rahman",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index.js",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1"
+		"url": "https://github.com/SiamApi/__BOT__/"
 	},
 	"keywords": [
 		"bot",
